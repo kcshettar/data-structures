@@ -10,7 +10,7 @@ public class Stack {
     // stack node structure
     private class Node {
         private Integer data;
-        Node nextNode;
+        private Node nextNode;
 
         Node(Integer data) {
             this.data = data;
@@ -83,7 +83,7 @@ public class Stack {
         System.out.println("stack implementation using linked list");
         Stack stack = new Stack();
 
-        // add 3 elements
+        // push 3 elements
         stack.push(1);
         stack.push(2);
         stack.push(3);
@@ -91,7 +91,7 @@ public class Stack {
         // find min element
         System.out.println("stack min = " + stack.getMin());
 
-        // print top element
+        // get top element
         System.out.println("stack top = " + stack.top());
 
         // print all elements

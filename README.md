@@ -8,9 +8,9 @@
 - [ ] search
 
 ## binary tree
-- [ ] insert
+- [x] insert
 - [ ] delete
-- [ ] search
+- [x] search
 
 ## queue
 - [x] enqueue

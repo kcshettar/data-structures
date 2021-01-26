@@ -3,9 +3,9 @@
 ![](https://img.shields.io/github/license/kcshettar/data-structures)
 
 ## binary search tree
-- [ ] insert
+- [x] insert
 - [ ] delete
-- [ ] search
+- [x] search
 
 ## binary tree
 - [x] insert

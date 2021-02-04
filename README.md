@@ -6,6 +6,12 @@
 - [x] insert
 - [ ] delete
 - [x] search
+- [x] print all leaf nodes
+- [x] preorder
+- [x] postorder
+- [x] inorder
+- [x] edges between root and farthest leaf node
+- [x] height of a tree
 
 ## binary tree
 - [ ] insert
